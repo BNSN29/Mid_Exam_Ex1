@@ -1,0 +1,1 @@
+This a simple app that test if the product with 5 and 8 equal to 40 before pushing or open a PR

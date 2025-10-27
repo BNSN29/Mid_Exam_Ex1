@@ -1,0 +1,23 @@
+{
+  "name": "mid_exam_ex1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prod.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BNSN29/Mid_Exam_Ex1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BNSN29/Mid_Exam_Ex1/issues"
+  },
+  "homepage": "https://github.com/BNSN29/Mid_Exam_Ex1#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
